@@ -19,6 +19,7 @@
 .logo img{
     align-self: center;
     padding: 5px;
+    width:100%;
 }
 
 .navbar ul{
