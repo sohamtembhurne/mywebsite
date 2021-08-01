@@ -23,6 +23,7 @@
 }
 
 .navbar ul{
+    padding: 0px;
     display: flex;
     list-style: none;
     justify-content: space-around;
